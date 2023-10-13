@@ -2,6 +2,7 @@
 This Scripts Help You To Remove Footer Copyright From Any Free Version Blogger Templates.
 
 # Usage
+```
 footerFixer({
     madeby: "jyotitemplates",
     f1: "",
@@ -13,3 +14,4 @@ footerFixer({
     year: "",
     after: ""
 });
+```
